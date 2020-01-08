@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888277683750",
+    "firebase_url": "https://swanky-1.firebaseio.com",
+    "project_id": "swanky-1",
+    "storage_bucket": "swanky-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888277683750:android:38f7677380de1b5c",
+        "android_client_info": {
+          "package_name": "com.example.bkrc.swankysocialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888277683750-4ujgjmeq1la24pqk2a0k0csu8q75racp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bkrc.swankysocialnetwork",
+            "certificate_hash": "6bce184c4d37c9515312eadf47c2dde96a3867ea"
+          }
+        },
+        {
+          "client_id": "888277683750-kosfeqfs78ugq79tdcoonj6un15nd2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLLg-Q1MLlvt_uphP0GJwAY8cawgS--A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888277683750-kosfeqfs78ugq79tdcoonj6un15nd2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_yarismalar"
+        android:title="Yarışmalar"
+        android:icon="@drawable/yarisma"
+        />
+
+    <item
+        android:id="@+id/nav_blog"
+        android:title="Blog"
+        android:icon="@drawable/blog"
+        />
+    <item
+        android:id="@+id/nav_haftanin_kazananlari"
+        android:title="Haftanın Kazananları"
+        android:icon="@drawable/kazanan"/>
+    <item
+        android:id="@+id/nav_iletisim"
+        android:title="İletişim"
+        android:icon="@drawable/iletisim"/>
+
+
+</menu>
